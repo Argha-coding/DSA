@@ -1,21 +1,20 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> mp;
+        vector<int> freq(256, 0);  // frequency of each character (ASCII)
         int i = 0, j = 0;
         int ans = 0;
 
         while (j < s.size()) {
-            mp[s[j]]++; // include s[j] in window
+            freq[s[j]]++; // add current char
 
-            // if there is a duplicate character, shrink from left
-            while (mp[s[j]] > 1) {
-                mp[s[i]]--;
-                if (mp[s[i]] == 0) mp.erase(s[i]);
+            // if duplicate, shrink window from left
+            while (freq[s[j]] > 1) {
+                freq[s[i]]--;
                 i++;
             }
 
-            // update max length (all unique now)
+            // update maximum length
             ans = max(ans, j - i + 1);
             j++;
         }
