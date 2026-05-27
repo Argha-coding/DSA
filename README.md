@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Argha-coding/DSA/tree/master/0940-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Argha-coding/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Argha-coding/DSA/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
