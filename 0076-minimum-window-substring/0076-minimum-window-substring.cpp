@@ -1,37 +1,35 @@
 class Solution {
 public:
-   
-string minWindow(string s, string t) {
-        unordered_map<char, int> mp;
-        int minlen=INT_MAX, start=0;
-        for(auto ch:t){
-            mp[ch]++;
+    std::string minWindow(std::string s, std::string t) {
+        if (s.empty() || t.empty() || s.length() < t.length()) {
+            return "";
         }
-        int i=0,j=0,count=mp.size();
-        while(j<s.length()){
-            if(mp.find(s[j])!=mp.end()){
-                mp[s[j]]--;
-                if(mp[s[j]]==0)
-                    count--;
-            }
-            if(count==0){
-                while(count==0){
-                    if(mp.find(s[i])!=mp.end()){
-                        mp[s[i]]++;
-                        if(mp[s[i]]==1) {
-                            count++;
-                            if(j-i+1<minlen){
-                                minlen=j-i+1;
-                                start=i;
-                            }
-                        }
-                    }
-                    i++;
-                }  
-            }
-            j++;
+
+        std::vector<int> map(128, 0);
+        int count = t.length();
+        int start = 0, end = 0, minLen = INT_MAX, startIndex = 0;
+        
+        for (char c : t) {
+            map[c]++;
         }
-        if(minlen==INT_MAX) return "";
-        return s.substr(start, minlen);
+
+        while (end < s.length()) {
+            if (map[s[end++]]-- > 0) {
+                count--;
+            }
+
+            while (count == 0) {
+                if (end - start < minLen) {
+                    startIndex = start;
+                    minLen = end - start;
+                }
+
+                if (map[s[start++]]++ == 0) {
+                    count++;
+                }
+            }
+        }
+
+        return minLen == INT_MAX ? "" : s.substr(startIndex, minLen);
     }
 };
