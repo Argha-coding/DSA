@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Argha-coding/DSA/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Argha-coding/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Argha-coding/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Argha-coding/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Argha-coding/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Argha-coding/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Argha-coding/DSA/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Argha-coding/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Argha-coding/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Argha-coding/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Argha-coding/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
