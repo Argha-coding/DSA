@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Argha-coding/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Argha-coding/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Argha-coding/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Argha-coding/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Argha-coding/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Argha-coding/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Argha-coding/DSA/tree/master/0076-minimum-window-substring) |
+| [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Argha-coding/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Argha-coding/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -124,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Argha-coding/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Argha-coding/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Argha-coding/DSA/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Argha-coding/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Argha-coding/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
