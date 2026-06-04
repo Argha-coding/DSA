@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Argha-coding/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Argha-coding/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Argha-coding/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Argha-coding/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Argha-coding/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Argha-coding/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Argha-coding/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Argha-coding/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
