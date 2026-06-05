@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Argha-coding/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Argha-coding/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Argha-coding/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Argha-coding/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Argha-coding/DSA/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Argha-coding/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Argha-coding/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
