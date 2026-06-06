@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Argha-coding/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Argha-coding/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Argha-coding/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Argha-coding/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Queue
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Argha-coding/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Argha-coding/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Argha-coding/DSA/tree/master/2594-minimum-time-to-repair-cars) |
 ## Linked List
