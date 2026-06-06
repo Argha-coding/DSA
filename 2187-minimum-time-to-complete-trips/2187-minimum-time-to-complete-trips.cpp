@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    long long possible(vector<int>& time, long long giventime, int totalTrips){
+    bool possible(vector<int>& time, long long giventime, int totalTrips){
         long long actualtrips = 0;
         for(int & t : time){
             actualtrips += giventime /t;
