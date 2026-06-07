@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Argha-coding/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Argha-coding/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Argha-coding/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Argha-coding/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Argha-coding/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Argha-coding/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -211,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Argha-coding/DSA/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Argha-coding/DSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Argha-coding/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
