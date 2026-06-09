@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Argha-coding/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1207-unique-number-of-occurrences](https://github.com/Argha-coding/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Argha-coding/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Argha-coding/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Argha-coding/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Argha-coding/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Argha-coding/DSA/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Argha-coding/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Argha-coding/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Argha-coding/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
