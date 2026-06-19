@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Argha-coding/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Argha-coding/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Argha-coding/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Argha-coding/DSA/tree/master/0076-minimum-window-substring) |
+| [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Argha-coding/DSA/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
