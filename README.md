@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Argha-coding/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Argha-coding/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Argha-coding/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Argha-coding/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Argha-coding/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Argha-coding/DSA/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Argha-coding/DSA/tree/master/0338-counting-bits) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Argha-coding/DSA/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
