@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
