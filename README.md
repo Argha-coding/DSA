@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Argha-coding/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Argha-coding/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Argha-coding/DSA/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Argha-coding/DSA/tree/master/0940-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Argha-coding/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Argha-coding/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Argha-coding/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Argha-coding/DSA/tree/master/2336-smallest-number-in-infinite-set) |
