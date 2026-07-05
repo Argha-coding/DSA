@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Argha-coding/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Argha-coding/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1301-number-of-paths-with-max-score](https://github.com/Argha-coding/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Argha-coding/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3620-network-recovery-pathways](https://github.com/Argha-coding/DSA/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Argha-coding/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1207-unique-number-of-occurrences](https://github.com/Argha-coding/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Argha-coding/DSA/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/Argha-coding/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Argha-coding/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Argha-coding/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Argha-coding/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Argha-coding/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Argha-coding/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Argha-coding/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Argha-coding/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Argha-coding/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
