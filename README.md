@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Argha-coding/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
