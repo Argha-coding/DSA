@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Argha-coding/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Argha-coding/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Argha-coding/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Argha-coding/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Argha-coding/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Argha-coding/DSA/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Argha-coding/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Argha-coding/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Argha-coding/DSA/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Argha-coding/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Argha-coding/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Argha-coding/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
