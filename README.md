@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Argha-coding/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Argha-coding/DSA/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Argha-coding/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Argha-coding/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Argha-coding/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Argha-coding/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Argha-coding/DSA/tree/master/3620-network-recovery-pathways) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Argha-coding/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Argha-coding/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Argha-coding/DSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Argha-coding/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Argha-coding/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Argha-coding/DSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
