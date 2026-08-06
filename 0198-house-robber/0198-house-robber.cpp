@@ -1,28 +1,28 @@
 class Solution {
 public:
-    
+    // Bottom up appproach space optimization with prev value
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if(n ==1 ) return nums[0];
+        if (n == 1)
+            return nums[0];
 
-       vector<int> t( n+1 ,0);
+       
 
-       t[0] = 0;
+         int prevprev = 0;
 
-       t[1] = nums[0];
+        int prev = nums[0];
 
-       for( int i = 2 ; i<= n; i++){
+        for (int i = 2; i <= n; i++) {
 
-            int steal = nums[i-1] + t[i-2];
+            int steal = nums[i - 1] + prevprev;
 
-            int skip  = t[i-1];
+            int skip = prev;
 
-            t[i] = max(steal,skip);
-
-
-       }
-       return t[n];
-
+             int temp = max(steal, skip);
+            prevprev = prev;
+            prev = temp;
+        }
+      return prev;
 
     }
 };
