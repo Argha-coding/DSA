@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Argha-coding/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Argha-coding/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Argha-coding/DSA/tree/master/0877-stone-game) |
+| [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [1140-stone-game-ii](https://github.com/Argha-coding/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Argha-coding/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Argha-coding/DSA/tree/master/1510-stone-game-iv) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Argha-coding/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
+| [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Argha-coding/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Argha-coding/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Argha-coding/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Argha-coding/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/Argha-coding/DSA/tree/master/0826-most-profit-assigning-work) |
+| [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Argha-coding/DSA/tree/master/1288-remove-covered-intervals) |
@@ -677,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Argha-coding/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Argha-coding/DSA/tree/master/1143-longest-common-subsequence) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
