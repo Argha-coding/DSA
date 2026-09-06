@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Argha-coding/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Argha-coding/DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Argha-coding/DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Argha-coding/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Argha-coding/DSA/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Argha-coding/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Argha-coding/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Argha-coding/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Argha-coding/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Argha-coding/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Argha-coding/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Argha-coding/DSA/tree/master/0198-house-robber) |
