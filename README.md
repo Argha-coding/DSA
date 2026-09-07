@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
+| [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Argha-coding/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Argha-coding/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Argha-coding/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Argha-coding/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Argha-coding/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Argha-coding/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Argha-coding/DSA/tree/master/1140-stone-game-ii) |
