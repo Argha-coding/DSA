@@ -4,21 +4,16 @@ public:
     
     long long countCommas(long long n) {
         ll result = 0;
-        ll lower = 1000;
+        ll start = 1000;
 
-        ll commas = 1;
+       
 
-        while( lower <=n){
-            ll  upper = lower*1000 -1;
+        while( start <=n){
+           
+            result += ( n - start + 1);
+            start *= 1000;
 
-            if( upper > n) upper = n;
         
-
-            ll countNumbers =  upper - lower + 1;
-
-            result += (countNumbers * commas);
-            lower *= 1000;
-            commas++;
         }
         return result;
     }
