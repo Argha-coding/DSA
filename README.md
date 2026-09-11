@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Argha-coding/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Argha-coding/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Argha-coding/DSA/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Argha-coding/DSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Argha-coding/DSA/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Argha-coding/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Argha-coding/DSA/tree/master/0205-isomorphic-strings) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Argha-coding/DSA/tree/master/0022-generate-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/Argha-coding/DSA/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Argha-coding/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
