@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Argha-coding/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/Argha-coding/DSA/tree/master/1544-make-the-string-great) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Argha-coding/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Argha-coding/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Argha-coding/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Argha-coding/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Argha-coding/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Argha-coding/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Argha-coding/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Argha-coding/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Argha-coding/DSA/tree/master/2336-smallest-number-in-infinite-set) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Argha-coding/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Argha-coding/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Argha-coding/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Argha-coding/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Argha-coding/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Argha-coding/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Argha-coding/DSA/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Argha-coding/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Argha-coding/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Argha-coding/DSA/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2029-stone-game-ix](https://github.com/Argha-coding/DSA/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Argha-coding/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
