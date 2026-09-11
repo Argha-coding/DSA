@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Argha-coding/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Argha-coding/DSA/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
