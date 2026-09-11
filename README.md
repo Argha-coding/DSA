@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Argha-coding/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Argha-coding/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Argha-coding/DSA/tree/master/0520-detect-capital) |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Argha-coding/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Argha-coding/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Argha-coding/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Argha-coding/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Argha-coding/DSA/tree/master/0509-fibonacci-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Argha-coding/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Argha-coding/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Argha-coding/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Argha-coding/DSA/tree/master/0525-contiguous-array) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Argha-coding/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Argha-coding/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Argha-coding/DSA/tree/master/0368-largest-divisible-subset) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Argha-coding/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Argha-coding/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/Argha-coding/DSA/tree/master/0826-most-profit-assigning-work) |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Argha-coding/DSA/tree/master/0014-longest-common-prefix) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 ## Greedy
 |  |
 | ------- |
@@ -559,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Argha-coding/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Argha-coding/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Argha-coding/DSA/tree/master/0112-path-sum) |
+| [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Argha-coding/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Argha-coding/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Argha-coding/DSA/tree/master/2685-count-the-number-of-complete-components) |
