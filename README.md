@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Argha-coding/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Argha-coding/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Argha-coding/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Argha-coding/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Argha-coding/DSA/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [1140-stone-game-ii](https://github.com/Argha-coding/DSA/tree/master/1140-stone-game-ii) |
@@ -723,4 +724,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Argha-coding/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
