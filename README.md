@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Argha-coding/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/Argha-coding/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Argha-coding/DSA/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Argha-coding/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Argha-coding/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Argha-coding/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/Argha-coding/DSA/tree/master/1544-make-the-string-great) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Argha-coding/DSA/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Argha-coding/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Argha-coding/DSA/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Argha-coding/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Argha-coding/DSA/tree/master/1544-make-the-string-great) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
@@ -775,4 +777,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Argha-coding/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Argha-coding/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
