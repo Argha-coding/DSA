@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Argha-coding/DSA/tree/master/0443-string-compression) |
 | [0472-concatenated-words](https://github.com/Argha-coding/DSA/tree/master/0472-concatenated-words) |
 | [0520-detect-capital](https://github.com/Argha-coding/DSA/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Argha-coding/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0859-buddy-strings](https://github.com/Argha-coding/DSA/tree/master/0859-buddy-strings) |
 | [0899-orderly-queue](https://github.com/Argha-coding/DSA/tree/master/0899-orderly-queue) |
 | [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Argha-coding/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Argha-coding/DSA/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Argha-coding/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Argha-coding/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Argha-coding/DSA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Argha-coding/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Argha-coding/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Argha-coding/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Argha-coding/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Argha-coding/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Argha-coding/DSA/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Argha-coding/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Argha-coding/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/Argha-coding/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/Argha-coding/DSA/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Argha-coding/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Argha-coding/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -780,5 +784,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Argha-coding/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Argha-coding/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
