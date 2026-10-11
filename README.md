@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Argha-coding/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/Argha-coding/DSA/tree/master/2594-minimum-time-to-repair-cars) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Argha-coding/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Argha-coding/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Argha-coding/DSA/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Argha-coding/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Argha-coding/DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Argha-coding/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Argha-coding/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Argha-coding/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Argha-coding/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
