@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Argha-coding/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Argha-coding/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Argha-coding/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Argha-coding/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Argha-coding/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Argha-coding/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Argha-coding/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Argha-coding/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0977-squares-of-a-sorted-array](https://github.com/Argha-coding/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/Argha-coding/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Argha-coding/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Argha-coding/DSA/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2540-minimum-common-value](https://github.com/Argha-coding/DSA/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Argha-coding/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Argha-coding/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Argha-coding/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Argha-coding/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Argha-coding/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Argha-coding/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Argha-coding/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Argha-coding/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Argha-coding/DSA/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/Argha-coding/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Argha-coding/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Argha-coding/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Argha-coding/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Argha-coding/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Argha-coding/DSA/tree/master/1539-kth-missing-positive-number) |
